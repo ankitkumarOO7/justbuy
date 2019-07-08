@@ -13,7 +13,7 @@ headers = {"User-Agent" : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (K
 
 ```
 
-Then set your constrain(in if condition) to get mail when product price is gonna below that.
+Then set your constraint(in if condition) to get mail when product price is gonna below that.
 
 ```python
 
