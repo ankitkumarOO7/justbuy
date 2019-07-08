@@ -23,4 +23,6 @@ if(pr>1500):
 
 Run the Code.
 
+```python
 Python filename.py
+```
